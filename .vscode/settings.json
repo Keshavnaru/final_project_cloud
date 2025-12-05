@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": ["./lambda"],
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    }
+}
